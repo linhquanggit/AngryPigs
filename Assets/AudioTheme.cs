@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Section4
+namespace AngryPigs
 {
     public class AudioTheme : MonoBehaviour
 {

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d5c8248d1ec29b7418e2b72ab289030c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_GameplayPanel: {instanceID: 0}
+  - m_PausePanel: {instanceID: 0}
+  - m_GameoverPanel: {instanceID: 0}
+  - m_LevelsData: {fileID: 11400000, guid: a3219dd8d0882e344afee2c9cb8e15ea, type: 2}
+  - m_ButtonNextLevel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
