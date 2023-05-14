@@ -24,8 +24,13 @@ namespace AngryPigs
         }   
         public void Exit()
         {
-            Application.Quit();
-        }  
+            if (UnityEditor.EditorApplication.isPlaying)
+            {
+                UnityEditor.EditorApplication.ExitPlaymode();
+            }
+             Application.Quit();
+
+        }
         public void Tutorial()
         {
             SceneManager.LoadScene(6);
